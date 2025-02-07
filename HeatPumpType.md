@@ -1,4 +1,4 @@
-## HeatPumpType:
+![image](https://github.com/user-attachments/assets/1aee5e24-2f69-4b4e-a385-2427f1578734)## HeatPumpType:
 
 Assuming that bytes from #129 to #138 are unique for each model of Aquarea heat pump:
 
@@ -58,6 +58,7 @@ Assuming that bytes from #129 to #138 are unique for each model of Aquarea heat 
 |51 | E2 D5 0C 67 00 83 92 0C 27 98 | WH-ADC0509L3E5AN | WH-WDG05LE5 | KIT-ADC05L3E5AN | 5 | 1ph | HP - split L-series 3kW elec heating - AN |
 |52 | E2 D5 0B 34 99 83 92 0C 27 98 | WH-SDC0509L3E5 | WH-WDG05LE5 | KIT-WC05L3E5 | 5 | 1ph | HP - split L-series 3kW elec heating |
 |53 | 42 D4 0B 83 71 32 D2 0C 44 55 | WH-ADC0309J3E5C | WH-UD03JE5 | KIT-ADC03JE5C-S | 3.2 | 1ph | HP - All-In-One Compact |
+|54 | 12 D7 01 18 21 33 94 0C 85 10 | Monoblock | WH-WXG16ME8 | Monoblock | 16 | 3ph | T-CAP - M-series |
 
 All bytes are used for Heat Pump model identification in the code.
 
